@@ -16,10 +16,10 @@ This project presents an IoT-enabled Smart Parking Management System designed us
 ```
 Smart-Parking-Management-System/
 │
-├── Arduino1_Master.ino        # Code for Master controller (sensors, gas, billing)
-├── Arduino2_Slave.ino         # Code for Slave controller (gates, LCD display)
+├── Arduino1_Master.c        # Code for Master controller (sensors, gas, billing)
+├── Arduino2_Slave.c         # Code for Slave controller (gates, LCD display)
 ├── SPMS_Report.docx           # Research paper / project report
-├── SPMS_Poster.pdf            # Project poster for academic presentation
+├── Truth_tables_and_boolean_expression.pdf      # Truth Tables and Boolean Expression
 ├── README.md                  # This file
 ```
 
